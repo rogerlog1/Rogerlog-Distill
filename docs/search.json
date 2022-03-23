@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Got any grapes?",
+      "description": "Bum Bum Bum",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-03-23T22:28:55+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "So the duck walked up the the lemonade stand...",
+      "description": "And he said to the man running the stand, \"Hey\"!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-03-23T22:28:55+00:00"
+    }
+  ],
+  "collections": []
+}
